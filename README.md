@@ -1,7 +1,7 @@
 # Adding suggestions for http://www.whatcanidoforwikimedia.org
 
 ##Instructions
-1. Navigate to the file you wish you change
+1. Navigate to the file you wish you change - for example, to add 'tech' suggestions, edit 'tech.txt'
 2. Click the pen icon in the top right
 3. Make your changes. Please be sure to follow the file's structure.
 4. Make a pull request
