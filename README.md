@@ -6,7 +6,7 @@
 3. Make your changes. Please be sure to follow the file's structure.
 4. Make a pull request
 
-##File Structure
+##Server File Structure
 The file structure on the server is as follows:
 * **assets**
   * style.css <br/>
@@ -22,7 +22,7 @@ The file structure on the server is as follows:
 * .htaccess <br/>
 * index.php (nb. uses file_get_contents on index.html)<br/>
 
-##File structure
+##Suggestion format
 ```<a href='url here'>Text to be shown</a>?```
 
 ##Notes
