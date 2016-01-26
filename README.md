@@ -1,10 +1,10 @@
-# Adding suggestions for http://www.whatcanidoforwikimedia.org
+# What Can I Do For Wikimedia
 
-##Instructions
-1. Navigate to the file you wish you change - for example, to add 'tech' suggestions, edit 'tech.txt'
-2. Click the pen icon in the top right
-3. Make your changes. Please be sure to follow the file's structure.
-4. Make a pull request
+##Adding Suggestions
+1. Navigate to the file you wish you change - for example, to add 'tech' suggestions, click 'tech.txt'
+2. Click the edit (pen) icon in the top right
+3. Make your changes. Please be sure to follow the file's standard structure.
+4. Submit a pull request
 
 ##Server File Structure
 The file structure on the server is as follows:
@@ -24,6 +24,9 @@ The file structure on the server is as follows:
 
 ##Suggestion format
 ```<a href='url here'>Text to be shown</a>?```
+
+##To Do
+* Make the suggestion submission process easier
 
 ##Notes
 * index.html is **THE MOST** hacky way of including something in a webpage and also allowing community input. It uses a PHP 'file_get_contents'. Editing this changes the index of http://www.whatcanidoforwikimedia.org - so only pull request sensible things yeah? :3
