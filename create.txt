@@ -3,3 +3,4 @@
 <a href='https://meta.wikimedia.org/wiki/Wikimedia_Blog'>Writing for Wikimedia's blog</a>?
 <a href='https://en.wikipedia.org/wiki/Wikipedia:Contributing_to_Wikipedia'>Improving Wikipedia articles</a>?
 <a href='https://commons.wikimedia.org/wiki/Commons:Welcome'>Uploading files</a>?
+<a href='https://www.mediawiki.org/wiki/Documentation'>Writing documentation</a>?
